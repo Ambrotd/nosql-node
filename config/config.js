@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-let app_port = process.env.PORT || 4000;
+let app_port = 4000;
 //DB data
 let mongo_port = 27017;
 let mongo_host = "localhost";
